@@ -25,8 +25,7 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
 
 <div align="center">
-   <img width="40" src="https://cdn.svgporn.com/logos/gopher.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/rust.svg"/>
+   <img width="40" src="https://cdn.svgporn.com/logos/gopher.svg"/> 
   <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
   <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>
   <img width="40" src="https://cdn.svgporn.com/logos/javascript"/> 
