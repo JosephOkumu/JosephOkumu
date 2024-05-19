@@ -17,7 +17,7 @@
 <p  align="left">
 <strong>Hello Devs, I am a Digital Explorer 🚀🌍. <br>
 My world revolves around crafting magic with code 💻✨, traveling and networking.
-<br>My tech stack includes  Python 🐍, JavaScript 🕸️, Golang 🐹, and Rust 🦀, constantly pushing the boundaries of innovation. As a Software Engineer at Zone01 🛠️, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure! 🚀🌟</strong>
+<br>My tech stack includes  Python, JavaScript 🕸️, Golang 🐹, and Rust 🦀, constantly pushing the boundaries of innovation. As a Software Engineer at Zone01, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
 </p>
 
 
