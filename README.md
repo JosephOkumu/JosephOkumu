@@ -20,6 +20,9 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 <br>My tech stack includes  Python, JavaScript 🕸️, Golang 🐹, and Rust 🦀, constantly pushing the boundaries of innovation. As a Software Engineer at Zone01, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
 </p>
 
+<br/>
+
+<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
 
 ## My contributions 
 <picture>
