@@ -13,7 +13,7 @@
 </p>
 
 
-<h1 align="left"> Joseph Okumu </h1>
+<h1 align="left"> About Joseph Okumu </h1>
 <p  align="left">
 <strong>Hello Devs, I am a Digital Explorer 🚀🌍. <br>
 My world revolves around crafting magic with code 💻✨, traveling and networking.
