@@ -27,8 +27,8 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 <div align="center">
    <img width="40" src="https://cdn.svgporn.com/logos/gopher.svg"/> 
   <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>
   <img width ="40" src="https://cdn.svgporn.com/logos/rust.svg"/>
+  <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>  
   <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
   
 
