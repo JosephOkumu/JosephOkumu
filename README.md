@@ -31,7 +31,7 @@ My world revolves around crafting magic with code 💻✨, traveling and network
   <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>  
   <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
   
-## MY STATS
+# MY STATS
 
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
