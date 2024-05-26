@@ -1,4 +1,4 @@
-# JosephOkumu
+# Joseph Okumu
 
 
 <p align="center"> 
