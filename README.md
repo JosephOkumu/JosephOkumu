@@ -28,6 +28,20 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JosephOKumu&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOKumu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<br>
+<h2 align="left">Github Resume</h2>
+<div align="center">
+
+<a href="https://github.com/JosephOkumu">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JosephOkumu&theme=cobalt" />
+</a>
+
+</div>
+
+<br/>
+<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JosephOKumu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
