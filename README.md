@@ -31,8 +31,17 @@ My world revolves around crafting magic with code 💻✨, traveling and network
   <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>  
   <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
   
+## MY STATS
 
-## My contributions 
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+## Snake my contributions 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosephOkumu/JosephOkumu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosephOkumu/JosephOkumu/output/github-contribution-grid-snake.svg">
