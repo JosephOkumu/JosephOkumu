@@ -20,26 +20,22 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 <br>My tech stack includes  Python, JavaScript 🕸️, Golang 🐹, and Rust 🦀, constantly pushing the boundaries of innovation. As a Software Engineer at Zone01, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
 </p>
 
-<br/>
 
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
+## My Stats:
+![](https://github-readme-stats.vercel.app/api?username=JosephOKumu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JosephOKumu&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephOKumu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JosephOKumu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## My Socials
 
 <div align="center">
-   <img width="40" src="https://cdn.svgporn.com/logos/gopher.svg"/> 
-  <img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-  <img width ="40" src="https://cdn.svgporn.com/logos/rust.svg"/>
-  <img width="40" src="https://cdn.svgporn.com/logos/javascript.svg"/>  
-  <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
-  
-# MY STATS
-
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
 ## Snake my contributions 
 <picture>
@@ -47,3 +43,6 @@ My world revolves around crafting magic with code 💻✨, traveling and network
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosephOkumu/JosephOkumu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JosephOkumu/JosephOkumu/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
