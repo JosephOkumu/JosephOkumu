@@ -17,7 +17,7 @@
 <p  align="left">
 <strong>Hello Devs, I am a Digital Explorer 🚀🌍. <br>
 My world revolves around crafting magic with code 💻✨, traveling and networking.
-<br>My tech stack includes  Python, JavaScript 🕸️, Golang 🐹, and Rust 🦀. I am constantly building and pushing the boundaries of innovation. As a Software Engineer, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
+<br>Currently, my tech stack includes Python and Golang 🐹. I am constantly building and pushing the boundaries of innovation. As a Software Engineer, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
 </p>
 
 
@@ -29,8 +29,9 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 </picture>
 
 
-## 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+## 💻 Tech Stack & Tools:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
 
 ## My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JosephOKumu&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
