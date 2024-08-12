@@ -17,7 +17,7 @@
 <p  align="left">
 <strong>Hello Devs, I am a Digital Explorer 🚀🌍. <br>
 My world revolves around crafting magic with code 💻✨, traveling and networking.
-<br>Currently, my tech stack includes Python and Golang 🐹. I am constantly building and pushing the boundaries of innovation. As a Software Engineer, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
+<br>My tech stack includes Python and Golang 🐹. Currently I am studying Javascript and Rust and I strive to build and push the boundaries of innovation. As a Software Engineer, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
 </p>
 
 
