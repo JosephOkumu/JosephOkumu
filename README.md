@@ -21,7 +21,7 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 </p>
 
 
-## 🏆 Achievements & Rankings
+## 🏆 Rankings
 
 [![committers.top badge](https://user-badge.committers.top/kenya/JosephOkumu.svg)](https://user-badge.committers.top/kenya/JosephOkumu)
 
