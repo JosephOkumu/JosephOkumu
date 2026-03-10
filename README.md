@@ -20,14 +20,6 @@ My world revolves around crafting magic with code 💻✨, traveling and network
 <br>My tech stack includes Python, Golang, JavaScript, and Rust 🐹. I strive to build and push the boundaries of innovation. As a Software Engineer, I blend creativity with technology to build extraordinary solutions. Join me on my journey through the realms of code and adventure!</strong>
 </p>
 
-
-## 🏆 Rankings
-
-[![committers.top badge](https://user-badge.committers.top/kenya/JosephOkumu.svg)](https://user-badge.committers.top/kenya/JosephOkumu)
-
-- Recognized as one of the top committers in Kenya!
-
-
 ## Snake eating my contributions 😊
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosephOkumu/JosephOkumu/output/github-contribution-grid-snake-dark.svg">
